@@ -3,6 +3,8 @@
 
 Welcome to the take-home assessment for the Data team! This assessment is designed to evaluate your abilities working with data, SQL and DBT. We would expect this to take 1-2 hours to complete.
 
+Please *duplicate* the repository and either send us a link to your repo or you can submit your work as zip email attachment.
+
 We've configured this repo with DBT and DuckDB to help you get started; Feel free to set up DBT yourself and/or use a different database if preferred.
 
 There's a directory called `data` with the synthetic data we'll be working with.
