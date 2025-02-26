@@ -1,0 +1,15 @@
+target/
+dbt_packages/
+logs/
+venv/
+__pycache__/
+data_takehome.duckdb
+.user.yml
+.vscode/*
+!.vscode/settings.default.json
+!.vscode/extensionsCallout.png
+!.vscode/extensions.json
+dbt-env/
+.env
+.aider*
+

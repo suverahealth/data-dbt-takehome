@@ -1,0 +1,8 @@
+data_takehome:
+
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: 'data_takehome.duckdb'
+      threads: 24
