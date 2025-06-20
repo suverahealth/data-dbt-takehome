@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: stg_pcns
+    description: "Staging view for Primary Care Networks (PCNs)"
+  - name: stg_practices
+    description: "Staging view for practices"
+  - name: stg_patients
+    description: "Dimension view for patients"
+  - name: stg_activities
+    description: "Staging view for patient activities"
